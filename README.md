@@ -22,16 +22,16 @@ It demonstrates how to:
 
 ## 📂 Project Structure  
 Complete-RAG/
-│── data/                 # Input documents
-│   ├── pdfs/             # PDF files
-│   └── text_files/       # TXT files
-│── vector_store/         # ChromaDB persistent store
-│── notebook/             # Jupyter notebooks
-│   └── document.ipynb
-│── main.py               # Entry script
-│── requirements.txt      # Dependencies
-│── pyproject.toml        # Project config
-│── README.md             # Documentation
+│── data/ # Input documents
+│ ├── pdfs/ # PDF files
+│ └── text_files/ # TXT files
+│── vector_store/ # ChromaDB persistent store
+│── notebook/ # Jupyter notebooks
+│ └── document.ipynb
+│── main.py # Entry script
+│── requirements.txt # Dependencies
+│── pyproject.toml # Project config
+│── README.md # Documentation
 
 
 ---
